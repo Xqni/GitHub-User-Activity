@@ -1,0 +1,18 @@
+event,displayas
+CommitCommentEvent,Commented on commit(s)
+CreateEvent,Created
+DeleteEvent,Deleted
+ForkEvent,Forked
+GollumEvent,Edited wiki(s)
+IssueCommentEvent,Commented on issue(s)
+IssuesEvent,Opened
+MemberEvent,Added member to
+PublicEvent,Made public
+PullRequestEvent,Opened pull request
+PullRequestReviewEvent,Reviewed pull request
+PullRequestReviewCommentEvent,Commented on pull request review
+PullRequestReviewThreadEvent,Started review thread
+PushEvent,Pushed
+ReleaseEvent,Published release
+SponsorshipEvent,Sponsored
+WatchEvent,Starred
