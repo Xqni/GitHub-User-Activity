@@ -4,7 +4,7 @@
 A simple command line program in Python programming language to check GitHub user's activity. Beginner level project.
 
 ## Hello 👋
-Thank you for checking my project, it was my second actual project so if you find any mistakes please let me and I will try to imporve it.
+Thank you for checking my project, it was my second actual project so if you find any mistakes please let me know and I will try to imporve it.
 
 
 ## Usage/Examples 🤔
